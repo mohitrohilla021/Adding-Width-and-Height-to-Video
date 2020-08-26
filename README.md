@@ -1,1 +1,6 @@
 # Adding-Width-and-Height-to-Video
+
+Adding width and height of the frame to the live video...
+Open CV expands the domain of creativity by creating aweosome projects...
+
+![](Height%20and%20width%20of%20frame%20added%20to%20video.JPG)
